@@ -1,0 +1,56 @@
+html>
+    <head>
+        <h1>Цікаві місця в світі</h1>
+    </head>
+    <body>
+        <header>
+        </header>
+        <nav>
+            <a class="nav-link" href="">China</a>
+            <a class="nav-link" href="">USA</a>
+            <a class="nav-link" href="">Finland</a>
+            <a class="nav-link" href="">Chile</a>
+            <a class="nav-link" href="">Netherland</a>
+        </nav>
+        <main>
+            <section class="info">
+                <article class="post">
+                    <h2></h2>
+                    <img class="post-img" src="https://youimg1.tripcdn.com/target/0101d120008j1nf7pF71B.jpg?proc=source%2Ftrip" width="400px" height="300px"/>
+                    <p class="post-text">China palawan</p>
+                    <a class="article-but" href="">Facts</a>
+                </article>
+                <article class="post">
+                    <h2>USA</h2>
+                    <img class="post-img" src="https://www.state.gov/wp-content/uploads/2022/01/shutterstock_267775931-scaled.jpg" width="330px" height="300px"/>
+                    <p class="post-text">Utah</p>
+                    <a class="article-but" href="">Facts</a>
+                </article>
+                <article class="post">
+                    <h2>Finland</h2>
+                    <img class="post-img" src="https://i.pinimg.com/736x/a6/50/e5/a650e521a969a1ba7666b005724c9f74--lapland-finland-top-destinations.jpg" width="400px" height="300px"/>
+                    <p class="post-text">Lappland</p>
+                    <a class="article-but" href="">Facts</a>
+                </article>
+                <article class="post">
+                    <h2>Chile</h2>
+                    <img class="post-img" src="https://i.pinimg.com/originals/74/4a/06/744a067fc92b5654c3788c7fb8dfd1ac.jpg" width="400px" height="300px"/>
+                    <p class="post-text">Atacama</p>
+                    <a class="article-but" href="">Facts</a>
+                </article>
+                <article class="post">
+                    <h2>Netherland</h2>
+                    <img class="post-img" src="https://i.pinimg.com/564x/c7/9c/78/c79c78dc9cf3b84c3c99cba1164f1635.jpg" width="400px" height="500px"/>
+                    <p class="post-text">Keukenhof</p>
+                    <a class="article-but" href="">Facts</a>
+                </article>
+            </section>
+        </main>
+        <footer>
+            <div class="contacts">
+            </div>
+            <div class="footer-logo">
+            </div>
+        </footer>
+    </body>
+</html>
